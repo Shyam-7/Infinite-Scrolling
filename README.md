@@ -4,7 +4,7 @@
 
 1. Navigate to the project directory: `cd social-media-feed`
 2. Install dependencies: `npm install`
-3. Start the React application: `http://localhost:3000`
+3. Start the React application: `npm start`
 
 ## Implementation Details
 
